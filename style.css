@@ -17,4 +17,21 @@ li {
   color: rgba(148, 83, 57, 0.719);
   font-family: monospace;
   
+}html {
+  background-color: rgb(255, 217, 195);
+  padding-left: 20px;
+
+}
+
+/* ======================== CSS Rule #2 */
+button {
+  font-family: "Poetsen One", sans-serif;
+color: lab(67.29% 45.36 47.49);
+}
+
+img {
+  border: brown;
+  border-radius: 5px;
+}
+  
 }
